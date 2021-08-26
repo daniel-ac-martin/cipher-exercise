@@ -1,0 +1,15 @@
+{
+  "name": "cipher-exercise",
+  "version": "0.1.0",
+  "description": "Encrypt and decrypt strings.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel A.C. Martin <npm@daniel-martin.co.uk> (http://daniel-martin.co.uk/)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
