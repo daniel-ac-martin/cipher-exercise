@@ -11,8 +11,8 @@ how far can you get!
 Pre-requisites
 --------------
 
-To complete this exercise you will need to have a recent version of Node.js
-installed.
+To complete this exercise you will need to have [Git] and a recent version of
+[Node.js] installed.
 
 
 Getting started
@@ -165,4 +165,6 @@ You should try to commit / snapshot your work as you progress.
 Good luck!
 
 
+[Git]: https://git-scm.com/
+[Node.js]: https://nodejs.org/
 [jest]: https://jestjs.io/
