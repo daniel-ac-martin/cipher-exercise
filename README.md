@@ -70,9 +70,13 @@ might help you to solve the problem.
 `charToInt()` will take a letter (a single character string) and turn it into a number. i.e.
 
 `charToInt('a')` will return `0`
+
 `charToInt('b')` will return `1`
+
 `charToInt('c')` will return `2`
+
 ...
+
 `charToInt('z')` will return `25`
 
 The function does not expect to be passed anything except the lower-case
@@ -88,15 +92,19 @@ The implementation is tested using [jest] through the specification file
 0 and 25, into a single-character string from 'a' to 'z'. i.e.
 
 `intToChar(0)`will return `'a'`
+
 `intToChar(1)`will return `'b'`
+
 `intToChar(2)`will return `'c'`
+
 ...
-`intToChar(25)`will return `'z'**
+
+`intToChar(25)`will return `'z'`
 
 The function does not expect to be passed anything except the integers between 0
 and 25 inclusive, outside of this range, its behaviour is undefined.
 
-**Note:*** You do NOT have to make use of these functions if you don't want to.
+**Note:** You do NOT have to make use of these functions if you don't want to.
 They are just provided for your convenience.
 
 
