@@ -82,7 +82,7 @@ might help you to solve the problem.
 The function does not expect to be passed anything except the lower-case
 characters, outside of this range, its behaviour is undefined.
 
-The implementation is tested using [jest] through the specification file
+The implementation is tested using [Jest] through the specification file
 `index.spec.js` you shouldn't need to edit this file until you reach stage 2.
 
 
@@ -167,4 +167,4 @@ Good luck!
 
 [Git]: https://git-scm.com/
 [Node.js]: https://nodejs.org/
-[jest]: https://jestjs.io/
+[Jest]: https://jestjs.io/
